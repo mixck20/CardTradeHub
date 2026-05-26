@@ -1,5 +1,9 @@
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/41ad9afe-b957-4a3b-b3a8-6e514000c083" /># CardTrade Hub
 
+## Contract ID
+CA2RSKKIXJY4GLWRSMRQAFATWPXML2NJGEPOFHZVLLKHGU3BLVC5I7M3
+https://stellar.expert/explorer/testnet/contract/CA2RSKKIXJY4GLWRSMRQAFATWPXML2NJGEPOFHZVLLKHGU3BLVC5I7M3
+
 > Trustless USDC escrow for graded collectible card trading on Stellar
 
 ---
